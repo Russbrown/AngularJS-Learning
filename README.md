@@ -228,7 +228,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
 * [Everything you need to understand to start with AngularJS] (http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
 * [What To Know To Be An Expert in AngularJS] (http://codigovivo.com/2013/06/09/what-to-know-to-be-an-expert-in-angularjs/)
-* [AngularJS for jQuery Developers] (http://blog.artlogic.com/2013/03/06/angularjs-for-jquery-developers/)
+* [AngularJS for jQuery Developers] (http://artandlogic.com/2013/03/angularjs-for-jquery-developers/)
 * [An Introduction to AngularJS] (http://www.webdesignerdepot.com/2013/04/an-introduction-to-angularjs/)
 * [Building a Web App From Scratch in AngularJS] (http://net.tutsplus.com/tutorials/javascript-ajax/building-a-web-app-from-scratch-in-angularjs/)
 * [AngularJS: An Overview] (http://glennstovall.com/developer-tutorials/angularjs-an-overview/)
